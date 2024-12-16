@@ -1,0 +1,6 @@
+Mansion,Porto,1500000
+Apartment T2,Paris,1200000
+Apartment T7,Los Angeles ,20000000
+Small House,Lisbon,200000
+Apartment T1,Madrid,350000
+Mansion,Madrid,1000000
